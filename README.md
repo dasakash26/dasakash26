@@ -2,7 +2,7 @@
 <h3 align="center">IT Undergrad</h3>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small_2x/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small_2x/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" alt="Coding Illustration" width="60%" />
 </p>
 
 <p align="center">
@@ -72,6 +72,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasakash26" alt="Streak stats" />
+</p>
+
+<h3 align="center">Fun Fact:</h3>
+<p align="center" style="font-style: italic;">
+  "It's not a bug, it's a feature." - Anonymous
 </p>
 
 
