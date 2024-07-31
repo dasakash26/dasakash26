@@ -74,7 +74,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasakash26" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
-</p>
 
