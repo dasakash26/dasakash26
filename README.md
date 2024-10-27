@@ -1,79 +1,73 @@
-<h1 align="center">Hi 👋, I'm Akash Das</h1>
-<h3 align="center">IT Undergrad</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Das;IT+Undergraduate;Aspiring+Web+Developer;Passionate+Programmer;Full+Stack+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small_2x/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" alt="Coding Illustration" width="60%" />
-</p>
+<h3 align="center">Welcome to My Profile</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="50%" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasakash26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
+### 🏆 Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dasakash26" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dasakash26&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-- 🌱 I’m currently learning **React**
-- 📫 How to reach me: **akashd2664@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🧑‍💻 About Me:
+- 🌱 Currently learning **React + TypeScript**
+- 🎯 Aspiring to become a **Full Stack Developer**
+- 📫 Reach me at **akashd2664@gmail.com**
+
+---
+
+### 🌐 Connect with Me:
+<p align="center">
   <a href="https://linkedin.com/in/dasakash26" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://codeforces.com/profile/dasakash26" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Codeforces-%23f16737.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+---
+
+### 🛠 Languages & Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?&style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasakash26&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
+---
+
+### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasakash26&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dasakash26&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasakash26&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasakash26&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
+### ✨ Fun Fact of the Day
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasakash26" alt="Streak stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rizz" alt="Random Quote" />
 </p>
-
-<h3 align="center">Fun Fact:</h3>
-<p align="center" style="font-style: italic;">
-  "It's not a bug, it's a feature." - Anonymous
-</p>
-
-
