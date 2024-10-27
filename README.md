@@ -69,5 +69,5 @@
 
 ### ✨ Fun Fact of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rizz" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cool" alt="Random Quote" />
 </p>
