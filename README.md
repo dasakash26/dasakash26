@@ -2,10 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Das;IT+Undergraduate;Aspiring+Web+Developer;Passionate+Programmer;Full+Stack+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Welcome to My Profile</h3>
+<h3 align="center" style="color: skyblue">Welcome to My Profile</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="50%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="50%" style="border-radius:1rem" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/23007ae3-8ef7-4957-a5a5-6d78efe02c03" alt="rolling-dragon-gif" height="130" />
 </div>
 
 <p align="center">
@@ -53,6 +57,12 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Material%20UI-%23008FFF.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237A1E99.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%06B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-%23A91B4C.svg?&style=for-the-badge&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
