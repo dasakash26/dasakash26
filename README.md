@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Das;IT+Undergraduate;Aspiring+Web+Developer;Passionate+Programmer;Full+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash+Das;IT+Undergraduate;Aspiring+Software+Engineer;Passionate+Programmer;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: skyblue">Welcome to My Profile</h3>
