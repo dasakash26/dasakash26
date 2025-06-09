@@ -26,7 +26,7 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🌱 Currently learning **React + TypeScript**
+- 🌱 Currently learning **Next**
 - 🎯 Aspiring to become a **Software Engineer**
 - 📫 Reach me at **akashd2664@gmail.com**
 
