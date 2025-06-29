@@ -26,6 +26,9 @@
   <a href="mailto:akashd2664@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  <a href="https://akashd.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Site-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Personal Website" />
+</a>
 </p>
 <h2 align="center">Technical Skills</h2>
 <p align="center">
