@@ -40,13 +40,9 @@
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasakash26&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
-  <br/><br/>
-
 | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasakash26&theme=dracula) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasakash26&theme=dracula) |
 |---|---|
 | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasakash26&theme=dracula) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasakash26&theme=dracula&utcOffset=5.3) |
-
-  <br/>
 
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
