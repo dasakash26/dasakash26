@@ -37,8 +37,9 @@
 ## GitHub Stats
 
 <div align="center">
-  
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasakash26&theme=dracula) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasakash26&theme=dracula) |
+
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasakash26&theme=dracula) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasakash26&theme=dracula&utcOffset=5.3) |
 |---|---|
-| ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasakash26&theme=dracula) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasakash26&theme=dracula&utcOffset=5.3) |
+| ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasakash26&theme=dracula) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasakash26&theme=dracula) |
+
 </div>
