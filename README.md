@@ -1,9 +1,9 @@
 <div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+       alt="Coding Animation" 
+       width="80%" 
+       style="border-radius:1rem; box-shadow:0 4px 20px rgba(0,0,0,0.3);" />
 
-  ![Coding Animation](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
-  
-  <br/>
-  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasakash26)
   [![Codeforces](https://img.shields.io/badge/Codeforces-%23f16737?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/dasakash26)
   [![LeetCode](https://img.shields.io/badge/LeetCode-%230D1117?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/dasakash26)
